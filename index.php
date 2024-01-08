@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home | Cadence Partner</title>
+    <title>Home | Cadence Partner Limited</title>
     <!-- Bootstrap -->
     <link href="main/assets/css/bootstrap.min.css" rel="stylesheet">
     
